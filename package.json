@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "hoaxer": "^5.5.3",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "@types/faker": "^6.6.9",
+    "faker": "^5.5.3"
+  }
+}
